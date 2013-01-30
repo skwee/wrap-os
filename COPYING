@@ -1,0 +1,12 @@
+This is my personal project of OS called wrap.
+Feel free to use this code for any purpose with one limitation: Plese include my name and link to my github in the code!
+
+All Rights Reserved to: Dmitry 'skwee' Kudryavtsev
+https://github.com/skwee/wrap-os
+
+Special thanks to:
+Wikipedia, wiki.osdev.org, forum.osdev.org, Intel® 64 and IA-32 Architectures Software Developer Manuals, The Internet
+
+This Project includes the file kernel/include/boot/multiboot.h
+which was developed by and copyrighted to Free Software Foundation, Inc.
+You can find the GNU General Public License in file GNULicense

@@ -1,4 +1,4 @@
 wrap-os
 =======
 
-A small WIP project of Operating System in C
+A small WIP project of Operating System in C++
